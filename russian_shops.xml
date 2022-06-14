@@ -932,6 +932,20 @@
         <link href="https://yakitoriya.ru/en/restaurants/" text="Official website (place locator)" ru.text="Ссылка на сайт (часы работы, координаты и т.п.)" />
         <reference ref="level_wheelchair_address_wifi_outdoorseating_drivethrough" />
       </item>
+      <item name="Kuzina" ru.name="Кузина" type="node,closedway,multipolygon" preset_name_label="true">
+        <space />
+        <reference ref="phone" />
+        <key key="shop" value="confectionery" />
+        <key key="brand" value="Kuzina" />
+        <key key="brand:wikidata" value="Q48947300" />
+        <key key="contact:facebook" value="https://www.facebook.com/KuzinaRussia" />
+        <key key="contact:vk" value="https://vk.com/kuzina_russia" />
+        <key key="contact:website" value="https://kuzina.ru/" />
+	<key key="contact:email" value="info@kuzina.ru" />
+        <key key="delivery" value="yes" />
+        <key key="name" value="Kuzina" />
+        <reference ref="level_wheelchair_address_wifi_outdoorseating_drivethrough" />
+      </item>	    
     </group>
     <group name="Food shops" ru.name="Продукты" icon="https://upload.wikimedia.org/wikipedia/commons/7/71/Emoji_u1f347.svg">
       <item name="Fix price" type="node,closedway,multipolygon" preset_name_label="true">
